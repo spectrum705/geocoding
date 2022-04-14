@@ -2,7 +2,7 @@
 
 Hi, this is an api for geocoding.
 (Using google maps api.)
-## Endpoint
+## Endpoint(use with POST request)
 https://geocoding07.herokuapp.com/getAddressDetails
 
 
