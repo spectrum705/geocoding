@@ -3,8 +3,9 @@
 Hi, this is an api for geocoding.
 (Using google maps api.)
 ## Endpoint
-/getAddressDetails
-    
+https://geocoding07.herokuapp.com/getAddressDetails
+
+
 ## example usage:
 send a post request with the api with the following parameters:
     
